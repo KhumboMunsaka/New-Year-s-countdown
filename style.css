@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f5e6e8;
+  margin: 0 auto;
+}
+h1,
+h2 {
+  text-align: center;
+  color: #192a51;
+  margin-top: 2em;
+}
+.container {
+  padding: 3em;
+  border: 2px solid;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  color: #d5c6e0;
+  font-size: xx-large;
+}
+
+.display {
+  margin: 0 auto;
+  background-color: #192a51;
+  padding: 0.7em;
+  border-radius: 15px;
+  
+}
