@@ -19,12 +19,13 @@ h6 {
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
+
   color: #d5c6e0;
   font-size: xx-large;
 }
 
 .display {
-  margin: 0 auto;
+  margin: 0.5em auto;
   background-color: #192a51;
   padding: 0.7em;
   border-radius: 15px;
